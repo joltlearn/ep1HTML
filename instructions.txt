@@ -1,0 +1,12 @@
+Hi!
+
+Welcome to EP1 of this tutorial!
+
+
+
+To run your code:
+
+1. Open the Terminal if not open already (Press Ctrl/Command + J)
+2. Paste this code: python3 -m http.server 8000
+3. Open this in the browser: http://localhost:8000
+4. If you want to stop it, go to the terminal and press Ctrl/Control + C
