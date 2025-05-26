@@ -1,12 +1,34 @@
 Hi!
 
-Welcome to EP1 of this tutorial!
+Congrats, and welcome to EP1 of this tutorial!
 
+To get the default HTML skeleton:
 
+1. Type the exclamation mark (!)
+2. Press tab
 
-To run your code:
+How To Use:
+
+Try to make index.html as much like the goal.html! Only index.html will run.
+Try copy-pasting goal.html into index.html, and seeing what works, what dosen't work, everything.
+index.html is like your scratchpad (pun intended). Do whatever you want with it!
+
+Running your Code:
 
 1. Open the Terminal if not open already (Press Ctrl/Command + J)
 2. Paste this code: python3 -m http.server 8000
 3. Open this in the browser: http://localhost:8000
 4. If you want to stop it, go to the terminal and press Ctrl/Control + C
+
+Tags:
+
+<h1> The biggest heading. Used for titles.
+<h2> A medium-sized heading. Used for sub-headings.
+<h3> An even smaller heading. This goes all the way to <h6>.
+
+<title> The title of the webpage. What you see on top of the tab.
+<p> A paragraph. For regular text.
+
+<ul> A unordered list. Basically dots instead of numbers.
+<ol> A ordered list. Basically numbers instead of dots.
+<li> A list item. Put these between <ul>'s and <ol>'s to add more items to the list.
